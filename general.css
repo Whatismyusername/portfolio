@@ -1,0 +1,17 @@
+.navbar{
+    background-color:rgba(255, 255, 255, 0);
+    border-color:rgba(255, 255, 255, 0);
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size:2em;
+    color:black;
+}
+.navbar-brand{
+    font-size:1em;
+    font-weight:bold;
+}
+body .navbar-default .red-text {
+    color:#ff0000;
+}
+.changePage{
+    cursor:pointer;
+}

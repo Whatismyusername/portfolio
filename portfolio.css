@@ -1,0 +1,58 @@
+#canvas{
+    background-size:100% 100%;
+    background-image:url('https://s3.envato.com/files/212542380/Dark%20Background%20%20%20%2001_preview1%20.JPG');
+    position:absolute;
+    z-index:-1;
+}
+#project{
+    height:100%;
+    width:100%;
+}
+#projectTop{
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius:5vw;
+    margin-top:10/3%;
+    margin-left:65%;
+    height:30%;
+    width:30%;
+    background-size:100% 100%;
+    opacity:0.8;
+}
+#projectMid{
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius:5vw;
+    margin-top:10/3%;
+    margin-left:40%;
+    height:30%;
+    width:30%;
+    background-size:100% 100%;
+    opacity:0.8;
+}
+#projectBot{
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius:5vw;
+    margin-top:10/3%;
+    margin-left:65%;
+    height:30%;
+    width:30%;
+    background-size:100% 100%;
+    opacity:0.8;
+}
+#projectPanel{
+    top:0;
+    height:80%;
+    width:80%;
+    background-color:rgb(255, 255, 255);
+    position:absolute;
+    z-index:1;
+    margin:10%;
+    border-radius:10vw;
+}
+#projectViewer{
+    margin:15%;
+    margin-top:10%;
+    margin-bottom:0%;
+    height:60%;
+    width:70%;
+    background-size:100% 100%;
+}

@@ -1,0 +1,54 @@
+h1{
+    font-size:7vw;
+    font-weight:bolder;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    color:rgba(217, 217, 217, 1);
+    text-align:center;
+}
+body{
+    background-image:url('https://s3.envato.com/files/212542380/Dark%20Background%20%20%20%2001_preview1%20.JPG');
+    position:fixed, absolute;
+    background-size:100% 100%;
+    z-index:-1;
+    background-attachment: fixed;
+}
+#wrapper{
+    
+}
+.fill{
+    height:10%;
+}
+.panel-margin{
+    width:70%;
+    margin:0 auto;
+    background-color:rgba(255, 255, 255, 0.9);
+}
+h3{
+    font-size:5vw;
+    font-weight:bolder;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    text-align:center;
+}
+
+.btn-outline {    
+     color: gray;   
+     font-size: 20px;    
+     border: 2px solid gray;    
+     background: 0 0;    
+     transition: all .3s ease-in-out;    
+     margin-top: 15px;   
+ }   
+     
+ .btn-social {   
+   display: inline-block;    
+   height: 50px;   
+   width: 50px;    
+   border: 2px solid gray;    
+   border-radius: 100%;    
+   text-align: center;   
+   font-size: 20px;      
+ }
+
+ .btn-social i {
+    line-height: 45px;
+ }
